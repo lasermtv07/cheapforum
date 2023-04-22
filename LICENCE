@@ -1,0 +1,53 @@
+PREAMBLE
+------------------
+Just dont be jerk, that's mostly enough. Also, please respect open source software
+and dont try to claim that you did something you didnt do
+cheapforum licence
+------------------
+1) Terms used in the agreement
+  a) This agreement is made between
+    a-a) the user - the person or institution using this software apart from 'the authors'
+    a-b) the authors - me, lasermtv07, based CZ and discord user @okay#7553
+  b) Additional terms
+    b-a) the members - the publishers of content on the software, hosted by the user
+    b-b) the software - all of the code in which the software is written, with the exception of the SQlite database, the PHP programming language
+     and all its parts and any third-party library
+    b-c) official release - deployment on official server owned or permitted by the authors
+    b-d) public vs private release - public release is accesible to all people on the internet or local network with more than 25 devices connected,
+         while private is accesible only to whitelisted people or only on network with less than 25 devices connected.
+    b-e) all references to other clauses are represented by clause/article (so this clause is referenced by b-e/1)
+2) The general usage of the project
+   a) The general use of this project, on deployment on a custom server, both on private and bublic networks
+      a-a) This software is provided free of charge for both commercial and personal use and can be modified under the conditions specified by article 3
+      a-b) The user must put maximal effort to stop spam, scam, distribution of illegal content and distribution of content prohibited by the rules*
+   b) The deployment on publicly accesible server
+      b-a) if the name of the project does not contain terms like chf, cf, cheapf, cheapforum, it must somewhere visible contain the line
+      'The web is page is taken from the cheapforum project' or 'Inspired by cheapforum'
+      b-b) the TOS of the version can differ from official TOS, but CANNOT violate any terms of this licence and include any content with the intention
+           to trick or damage members
+   c) The deployment on private server
+      b-a) On the private server, the user holds FULL RESPONSIBILITY to moderate the content is in violation of this licence if any content prohibited by clause
+      a-b/2, in contrast users publicly CAN avoid violation if they can prove they put maximal effort into stopping the prohibited activity from occuring
+3) Forking
+  Forking is the the act of taking the software and modifying it.
+     a) The user is responsible for all violation of this licence caused by the fork
+     b) As specified by a-b/2, the software cannot be modified to contain any illegal or fraudulent content
+     c) In both deployed and publicly available versions, there must be mentioned that it's forked, either as specified by b-a/2 or by notes like
+        'Forked from cheapforum'. The person forking can be held responsible for breaking this rule if the fork isn't deployed.
+     d) All members, user and other people have right to fork, as this is open source software
+4) Rights of the users and the authors and liability
+   a) Ownership
+      a-a) The unmodified official version is owned by the authors
+      a-b) All content from the official version used is owned by the author
+      a-c) All content made by the author, hence forked from the official release, is licenced under this licence
+   b) LIABILITY
+      b-a) THE AUTHORS HOLD NO LIABILITY FOR ANY DAMAGES CAUSED BY THIS SOFTWARE, INCLUDING DAMAGES CAUSED BY A FAULT
+           OF OUR SOFTWARE! ALL RESPONSIBILITY IS PLACED ON THE USER, INCLUDING FINANCIAL, MENTAL OR PHYSICAL AND OTHER DAMAGES TO BOTH
+           THE MEMBERS AND THE USER! 
+  ----------------------------------
+  ADDITIONAL INFO
+  * - if the rules are not yet finished or the page is unavailble, follow these direction
+        1) dont allow any adult content unless specifically permitted by the authors (including p*** and exceptionally gory videos)
+        2) dont allow doxxing
+        3) dont allow harrasment or suicidal advice
+        4) ban aall people trying to sell illegal substances or illegal weapons
