@@ -1,0 +1,1 @@
+/<script>|<script|<?php|<h1>|<h2>|<h3>|</body>|</div>|<iframe>|<object>|<embed>|<form>|<input>|<textarea>|<button>|<select>|<option>|<link>|<style>|<meta>|<base>|onerror|onmouseover|onmouseout|onmousedown|onmouseup|onclick|onchange|onsubmit|onfocus|onblur|onload|document\.cookie|document\.write|document\.writeln|innerHTML|outerHTML|XMLHttpRequest|eval/si
